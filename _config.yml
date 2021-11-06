@@ -1,6 +1,4 @@
 theme: jekyll-theme-hacker
-github:
-  is_project_page: false
 title: [Let's Make a Program]
 description: [You'll never learn to swim by reading books about the ocean.  Let's dive right in, together.]
 show_downloads: [false]
